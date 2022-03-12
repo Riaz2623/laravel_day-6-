@@ -1,2 +1,2 @@
-# laravel_day-6-
+# laravel_day-6
 laravel-9
